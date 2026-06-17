@@ -7,7 +7,7 @@ Jeder Schritt wird detailliert im Terminal protokolliert, und am Ende der Missio
 
 1. Lade alle Projektdateien (main.py, world.py, panels.py) in denselben Ordner herunter.
 2. Lass dem main.py im Terminal (Command Prompt) oder ein IDE laufen
-3. Das Spiel wird dich beim Start nach deinen Startparametern fragen (Schwierigkeitsgrad, Name des Kommandanten, Rover-Name und Start-Koordinaten).
+3. Starte die Datei main.py im Terminal (Command Prompt) oder in einer IDE.
 
 ## 🎮 Steuerung
 
@@ -30,7 +30,8 @@ instruct – öffnet das Handbuch mit einer Erklärung aller Funktionen.
 * 🪙 Schatz/Münze: Erhöht dein Guthaben. Münzen können im Shop für Upgrades verwendet werden.
 * 🔋 Ladestation: Füllt die Energie wieder auf.
 
-Hinweis: Jeder Schritt kostet den Rover 5 Energieeinheiten. Die maximale Energie ist auf 500 begrenzt. Sinkt die Energie auf 0, scheitert die Mission.
+Wichtiger Hinweis: Jeder Schritt kostet den Rover 5 Energieeinheiten. Die maximale Energie ist auf 500 begrenzt. Sinkt die Energie auf 0, scheitert die Mission.
+Wichtiger Hinweis: Es gibt eine Weltgrenze bei den Koordinaten 1700 und -1700, über die der Rover aus Sicherheitsgründen nicht hinausfahren kann.
 
 ## 🎲 Zufällige Ereignisse
 
