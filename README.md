@@ -6,8 +6,8 @@ Jeder Schritt wird detailliert im Terminal protokolliert, und am Ende der Missio
 ## 📋 Startanleitung
 
 1. Lade alle Projektdateien (main.py, world.py, panels.py) in denselben Ordner herunter.
-2. Lass dem main.py im Terminal (Command Prompt) oder ein IDE laufen
-3. Starte die Datei main.py im Terminal (Command Prompt) oder in einer IDE.
+2. Starte die Datei main.py im Terminal (Command Prompt) oder in einer IDE.
+3. Das Spiel wird dich beim Start nach deinen Startparametern fragen (Schwierigkeitsgrad, Name des Kommandanten, Rover-Name und Start-Koordinaten).
 
 ## 🎮 Steuerung
 
